@@ -1,4 +1,5 @@
 # NeetCode Solutions — @Bhumika1503
+** The solution you find here are written in java.
 
 > Synced automatically from [NeetCode.io](https://neetcode.io) · Repository: `neetcode-submissions`
 
